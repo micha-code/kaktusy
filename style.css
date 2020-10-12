@@ -14,7 +14,7 @@ h1 {
 }
 
 .banner {
-  height: 450px;
+  height: 10px;
   background-image: url('img/cactus.jpg');
   background-size: cover;
   background-position: center center;
